@@ -3,9 +3,11 @@
 
 > Additional features include: 
 >> Save Function:
->>> saves the user input proposition with its generated truth table in a txt file 
+>>> saves the user input proposition with its generated truth table in a txt file
+ 
 >> Load Function:
 >>> opens an existing file and displays the truth table in the output screen
+
 >> Clear Function:
 >>> clear the input box and the output screen
 

@@ -3,15 +3,15 @@
 
 > Additional features include: 
 
->>  Save Function:
+>  Save Function:
 
     saves the user input proposition with its generated truth table in a txt file
  
->>  Load Function:
+>  Load Function:
   
      opens an existing file and displays the truth table in the output screen
      
->>  Clear Function:
+>  Clear Function:
   
      clear the input box and the output screen
 

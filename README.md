@@ -4,4 +4,4 @@
 > Additional features include: save and load function.
 
 
-> Canva Presentation Link: [Click Here](https://www.canva.com/design/DAFU63rBUzE/_2qL3NSsJs6WBGCveMHBpg/viewutm_content=DAFU63rBUzE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+> Canva Presentation Link: [Click Here](https://www.canva.com/design/DAFU63rBUzE/_2qL3NSsJs6WBGCveMHBpg/view?utm_content=DAFU63rBUzE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
